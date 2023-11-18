@@ -1,0 +1,1 @@
+export const nameMock:string[] = ['Max','Mid','Min']
